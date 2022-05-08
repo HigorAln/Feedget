@@ -4,7 +4,7 @@
   <!-- <a href="https://nlwreturn.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">NLW Return</h1>
+<h1 align="center">Feedget</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/higoraln/nlw-return?color=56BEB8">
