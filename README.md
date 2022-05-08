@@ -73,7 +73,7 @@ Before starting, you need to have [Git](https://git-scm.com) and [Node](https://
 $ git clone https://github.com/higoraln/Feedget
 
 # Access
-$ cd nlw-return
+$ cd Feedget
 
 # if you wnt access Frontend
 $ cd web
