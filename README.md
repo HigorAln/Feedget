@@ -102,4 +102,19 @@ Made with help the <a href="https://github.com/Rocketseat" target="_blank">Rocke
 
 &#xa0;
 
+<hr />
+
+&#xa0;
+
+&#xa0;
+
+<h2>Some`s pictures of the project</h2>
+
+<img src="assets/1.png" />
+<img src="assets/2.png" />
+<img src="assets/3.png" />
+<img src="assets/4.png" />
+
+&#xa0;
+
 <a href="#top">Back to top</a>
