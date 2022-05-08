@@ -70,7 +70,7 @@ Before starting, you need to have [Git](https://git-scm.com) and [Node](https://
 
 ```bash
 # Clone this project
-$ git clone https://github.com/higoraln/nlw-return
+$ git clone https://github.com/higoraln/Feedget
 
 # Access
 $ cd nlw-return
